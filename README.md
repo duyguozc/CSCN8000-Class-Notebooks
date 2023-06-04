@@ -29,8 +29,8 @@ Setup
 
   ii)To run Python notebooks in vscode, you first need to install the Python extension by Microsoft (done via the Extensions menu on the left sidebar).
   
-  iii)Then, open a notebook and set the right kernel (either python_cpu or tensorflow_cpu, depending of what the notebook is using). Setting the kernel is done on 
-      the top right side in vscode.
+ iii)Then, open a notebook and set the right kernel (either python_cpu or tensorflow_cpu, depending of what the notebook is using). Setting the kernel is done on 
+     the top right side in vscode.
 
   iv) Note that if you see wiggly orange lines below the package names in the import statement, change the interpreter to that of the virtual environment by typing in the command-palette Python: Select Interpreter (stackoverflow).
 
